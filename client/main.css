@@ -1,0 +1,33 @@
+nav{
+	background-color: #f04b38 !important;
+}
+.logo{
+	padding: 5rem 0 1rem;
+}
+.btn.facebook-btn{
+	background-color: #2b4287; 
+}
+.btn.facebook-btn:hover{
+	background-color: #2b4287; 
+}
+
+.home{
+	background: url(../img/rally-mapa-01.jpg);
+	background-size: 100% 107%;
+	height: 100vh;
+}
+
+.coche{
+	background: url(../img/coche.jpg);
+	background-size: 100% 107%;
+	height: 100vh;
+}
+
+.slide {
+    height: 100%;
+    padding: 5rem 1rem;
+}
+
+.slider{
+	height: 350px !important;
+}
